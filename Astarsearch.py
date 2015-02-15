@@ -1,6 +1,6 @@
 import math
 import pdb
-
+#new line
 class Astarsearch:
 
     def __init__(self,maphandler):
